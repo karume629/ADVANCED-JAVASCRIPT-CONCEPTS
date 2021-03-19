@@ -14,6 +14,6 @@ Promises
 Used in fetch API.
 Is an object representing completion or failure of async operations.
 
-"I promise to get back to you with an anwer as soon as I can"
+"I promise to get back to you with an answer as soon as I can"
 
 Async operations like promises are put in Event Que which runs after main thread has finished processing so that they dont block subsequent js code from running.

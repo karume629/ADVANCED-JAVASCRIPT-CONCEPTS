@@ -1,5 +1,5 @@
 function baz() {
-  console.log("This will execute first")
+  throw new Error('Something went wrong')
 }
 
 function bar() {
